@@ -71,9 +71,8 @@ export default function FullWidthImage(props) {
               <h1
                 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
                 style={{
-                  boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(255, 68, 0)",
+                  boxShadow: "#ff553d 0.5rem 0px 0px, #ff553d -0.5rem 0px 0px",
+                  backgroundColor: "#ff553d",
                   color: "white",
                   lineHeight: "1",
                   padding: "0.25em",
